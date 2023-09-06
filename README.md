@@ -2,7 +2,7 @@
 
 Meu nome é Joao Victor
 
-- Estou estudando na alura
+- Estou estudando na [alura](https://www.alura.com.br/)
 - Estou me desenvolvendo na linguagen javaScript
 - Utilizo esse espaço para minha organização e compaetilhamento dos meu projetos desenvolvidos
 
